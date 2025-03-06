@@ -1,0 +1,25 @@
+---
+title: "dataspice"
+format: html
+editor: visual
+---
+
+# Description of data
+
+Raw data that from the NEUTC project entitled "Incorporating Large Language Models (LLMs) into Transportation Safety Analytics and Equity".Using LLMs to improve safety and equity through crash data, disparities in traffic safety, for road users and underserved communities.
+
+## Who Created
+
+Uploaded by Fitzpatrick, Cole
+
+## When data was published
+
+February 23, 2025
+
+## Title
+
+Incorporating Large Language Models (LLMs) into Transportation Safety Analytics and Equity
+
+## Unique and persistent identifier
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZUVVZD&version=1.0 https://www.umass.edu/neutc/projects/incorporating-large-language-models-llms-transportation-safety-analytics-and-equity
